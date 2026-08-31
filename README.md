@@ -4,6 +4,6 @@ Cette rubrique rassemble des travaux consacrés à l’analyse du changement cli
 
  Notebooks : les notebooks associés aux différents projets sont structurés, détaillés et abondamment commentés, permettant de suivre chaque étape de l’analyse, de la préparation des données à la modélisation, l’évaluation et l’interprétation des résultats.
 
- Rapports : les rapports détaillés sont disponibles dans le dossier reports. En cas de difficulté d’affichage des fichiers PDF sur GitHub, ils peuvent également être consultés via le [Google Drive].
+ Rapports : les rapports détaillés sont disponibles dans le dossier reports. En cas de difficulté d’affichage des fichiers PDF sur GitHub, ils peuvent également être consultés via le [Google Drive](https://drive.google.com/drive/folders/1A0FAAi7PzDQbAKhTm92TjMPEdPkd8qpm?usp=sharing).
 
 Chaque projet présente la méthodologie adoptée, les développements réalisés, les résultats obtenus et leur interprétation.
